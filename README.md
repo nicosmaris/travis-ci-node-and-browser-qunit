@@ -1,3 +1,5 @@
+nicosmaris.github.io/travis-ci-node-and-browser-qunit
+
 # Travis CI with Node JS and Browser (in Phantom JS), using QUnit
 
 This project is a little demonstration of how to get a javascript library using
