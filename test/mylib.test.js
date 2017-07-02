@@ -1,3 +1,5 @@
+var QUnit = require('node-qunit-phantomjs');
+
 QUnit.module('main');
 
 QUnit.test('mylib returns true', function () {

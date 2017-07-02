@@ -22,7 +22,8 @@
 	"dependencies": {
 	},
 	"devDependencies": {
-		"qunit": "1.0.0"
+		"qunit": "1.0.0",
+                "node-qunit-phantomjs": "*"
 	},
 	"licenses": [{
 		"type": "MIT",
