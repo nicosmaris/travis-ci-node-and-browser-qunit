@@ -22,7 +22,7 @@
 	"dependencies": {
 	},
 	"devDependencies": {
-		"qunitjs": "*"
+		"qunit": "1.0.0"
 	},
 	"licenses": [{
 		"type": "MIT",
